@@ -1,5 +1,5 @@
 {
-    "name": "Complex Conditionals",
+    "name": "LED Go Dim to Bright and Back",
     "description": "",
     "dependencies": {
         "core": "*",
